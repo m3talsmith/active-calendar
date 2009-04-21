@@ -1,0 +1,7 @@
+h1. ActiveCalendar Introduction
+
+ActiveCalendar is designed to treat calendars in the same manner that ActiveRecord treats normal records. This is designed first and foremost to be used with Google Calendar.
+
+*This project is brand new and unusable right now. I will remove this when it's ready for some sort of use in the very near future. At that point I'll also update this with examples and so on.*
+
+h5. Copyright (c) 2009 Michael Christenson II ( michael@theurbanrebellion.com ), released under the MIT license
